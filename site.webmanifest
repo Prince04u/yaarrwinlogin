@@ -1,0 +1,1 @@
+{"name": "yaarwin", "short_name": "yaarwin", "start_url": "/", "display": "standalone", "background_color": "#04130a", "theme_color": "#04130a", "description": "yaarwin \u2014 a modern mobile-first gaming application and digital entertainment platform.", "icons": [{"src": "/assets/app-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}]}
